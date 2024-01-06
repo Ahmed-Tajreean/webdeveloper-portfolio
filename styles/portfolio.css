@@ -204,6 +204,7 @@ footer {
 
 .social-links a {
     margin-right: 25px;
+    text-align: center;
 }
 
 .contact input[type='text'],
